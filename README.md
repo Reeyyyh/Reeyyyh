@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rey</h1>
 <h3 align="center">still need many things to learn</h3>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="right-center" alt="Coding" width="400" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 - 🌱 I’m currently learning **Fronted end**
 
