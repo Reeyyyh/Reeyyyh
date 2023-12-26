@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rey</h1>
 <h3 align="center">still need many things to learn</h3>
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
 - 🌱 I’m currently learning **Fronted end**
 
 - ⚡ Fun fact **i think i dont have**
