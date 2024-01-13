@@ -30,6 +30,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyyyh&show_icons=true&locale=en&theme=neon&hide_border=false" alt="reeyyyh" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reeyyyh&theme=shades-of-purple&hide_border=false" alt="reeyyyh" /></p>
 
-[calm_pink_repo]: https://github-readme-stats.vercel.app/api/pin/?username=reeyyyh&repo=TugasPBO&cache_seconds=86400&theme=calm_pink
+<div align="center">
+  <h2> - My contributions - </h2>
+  <br>
+  <img alt"snake" src="https://raw.githubusercontent.com/reeyyyh/reeyyyh/output/github-contribution-grid-snake.svg">
+  <br><br><br>
+</div>
 
 <!-- original js icon https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg -->
