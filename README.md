@@ -47,13 +47,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyyyh&show_icons=true&locale=en&theme=neon&hide_border=false" alt="reeyyyh" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reeyyyh&theme=shades-of-purple&hide_border=false" alt="reeyyyh" /></p>
 
-
-<style>
-  @keyframes blink {
-    0% { border-color: red; }
-    25% { border-color: yellow; }
-    50% { border-color: blue; }
-    75% { border-color: green; }
-    100% { border-color: red; }
-  }
-</style>
