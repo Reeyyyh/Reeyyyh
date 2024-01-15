@@ -43,7 +43,7 @@
 </p>
 
 <h1 align="center"> - My github Stats - </h1>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reeyyyh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro&hide_border=false" alt="reeyyyh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reeyyyh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro&hide_border=false&border_radius=8&border_color=ffffff" alt="reeyyyh" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyyyh&show_icons=true&locale=en&theme=neon&hide_border=false&border_radius=16" alt="reeyyyh" /></p>
 
@@ -56,4 +56,3 @@
 <a href="https://github.com/Reeyyyh/KuisUas" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=KuisUas&theme=synthwave&border_radius=10" alt="TugasPBO" /></a>
 </p>
-
