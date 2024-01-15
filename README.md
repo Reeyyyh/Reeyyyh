@@ -38,6 +38,7 @@
 <h1 align="center"> - Tools - </h1>
 <p align ="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  &nbsp;
   <a href="https://code.visualstudio.com/" targer="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vs code" width="40" height="40"/></a>
 </p>
 
