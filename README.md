@@ -11,37 +11,28 @@
 <h1 align="center"> - Languages - </h1>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-block; border: 3px solid; padding: 2px; animation: blink 5s infinite; width: 50px; height: 50px; border-radius: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; border: 3px solid; padding: 2px; animation: blink 5s infinite; width: 50px; height: 50px; border-radius: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; border: 3px solid; padding: 2px; animation: blink 5s infinite; width: 50px; height: 50px; border-radius: 8px;">
-  <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640" alt="javascript" width="40" height="40"/>
-</a>
+  <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640" alt="javascript" width="40" height="40"/></a>
 &nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display: inline-block; border: 3px solid; padding: 2px; animation: blink 5s infinite; width: 50px; height: 50px; border-radius: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: inline-block; border: 3px solid; padding: 2px; animation: blink 5s infinite; width: 50px; height: 50px; border-radius: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 &nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block; border: 3px solid; padding: 2px; animation: blink 5s infinite; width: 50px; height: 50px; border-radius: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 &nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; border: 3px solid; padding: 2px; animation: blink 5s infinite; width: 50px; height: 50px; border-radius: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 &nbsp;
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer" style="display: inline-block; border: 3px solid; padding: 2px; animation: blink 5s infinite; width: 50px; height: 50px; border-radius: 8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="Lua" width="40" height="40"/>
-</a>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="Lua" width="40" height="40"/></a>
 </p>
 
 <h1 align="center"> - Tools - </h1>
