@@ -50,9 +50,9 @@
 <h1 align="center"> - My github Stats - </h1>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reeyyyh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro&hide_border=false&border_radius=8&border_color=ffffff" alt="reeyyyh" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyyyh&show_icons=true&locale=en&theme=neon&hide_border=false&border_radius=16" alt="reeyyyh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyyyh&show_icons=true&locale=en&theme=neon&hide_border=false&border_radius=16&border_color=f007e0" alt="reeyyyh" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reeyyyh&theme=shades-of-purple&hide_border=false&border_radius=12&border_color=030bfc" alt="reeyyyh" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reeyyyh&theme=shades-of-purple&hide_border=false&border_radius=12&border_color=0713f0" alt="reeyyyh" /></p>
 
 <p align="center">
 <a href="https://github.com/Reeyyyh/KasirApp" target="_blank">
