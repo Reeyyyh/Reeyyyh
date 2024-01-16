@@ -61,7 +61,7 @@
 </p>
 
 <!-- my repo-->
-<h1 align="center"> - My Repository - </h1>
+<h1 align="center"> - My Repositories - </h1>
 <p align="center">
 <a href="https://github.com/Reeyyyh/KasirApp" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=kasirapp&theme=cobalt&border_radius=10" alt="kasirapp" /></a>
