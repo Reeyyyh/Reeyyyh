@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rey</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=reeyyyh&label=Profile%20views&color=e10909&style=plastic" alt="reeyyyh" /> </p>
 <h3 align="center">still need many things to learn</h3>
 
 <div align="center"><img align="center" alt="Coding" width="400" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></div>
