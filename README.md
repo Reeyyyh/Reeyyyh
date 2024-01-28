@@ -67,6 +67,6 @@
 <p align="center">
 <a href="https://github.com/Reeyyyh/KasirApp" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=kasirapp&theme=cobalt&border_radius=10" alt="kasirapp" /></a>
-<a href="https://github.com/Reeyyyh/KuisUas" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=KuisUas&theme=synthwave&border_radius=10" alt="TugasPBO" /></a>
+<a href="https://github.com/Reeyyyh/SolarSystem" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=SolarSystem&theme=synthwave&border_radius=10" alt="TugasPBO" /></a>
 </p>
