@@ -59,7 +59,7 @@
 <!-- quotes -->
 <h1 align="left"> 📖 - Motivation - </h1>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=You%20need%20to%20go%20to%20hell%20before%20you%20can%20get%20to%20%22the%20end%22&author=Minecraft&type=vertical&theme=monokai&border=true" alt="Readme Quotes"/>
+    <img src="https://quotes-github-readme.vercel.app/api?quote=You%20even%20aiming?&author=Monsoon&type=vertical&theme=monokai&border=true" alt="Readme Quotes"/>
 </p>
 
 <!-- my repo-->
