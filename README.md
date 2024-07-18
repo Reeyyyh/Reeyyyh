@@ -59,7 +59,7 @@
 <!-- quotes -->
 <h1 align="left"> 📖 - Motivation - </h1>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=Ok.%20let's%20dance&author=Jetstream%20sam&type=vertical&theme=monokai&border=true" alt="Readme Quotes"/>
+    <img src="https://quotes-github-readme.vercel.app/api?quote=Lets%20see%20whats%20you%20really%20made%20of&author=Karl%20Heisenberg&type=vertical&theme=monokai&border=true" alt="Readme Quotes"/>
 </p>
 
 <!-- my repo-->
