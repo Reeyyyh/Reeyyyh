@@ -38,7 +38,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="Lua" width="40" height="40"/></a>
 &nbsp;
 <a href="https://www.php.net/" target="_blank" rel="noreferrer" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" alt="PHP" width="50" height="40"/></a>
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="40" height="40"/></a>
 </p>
 
 <!-- for tools icons -->
