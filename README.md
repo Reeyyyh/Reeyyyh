@@ -39,6 +39,9 @@
 &nbsp;
 <a href="https://www.php.net/" target="_blank" rel="noreferrer" >
   <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="40" height="40"/></a>
+&nbsp;
+<a href="https://www.sql.org/" target="_blank" rel="noreferrer" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="PHP" width="40" height="40"/></a>
 </p>
 
 <!-- for tools icons -->
@@ -64,7 +67,7 @@
 <!-- quotes -->
 <h1 align="left"> 📖 - Motivation - </h1>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=Lets%20see%20whats%20you%20really%20made%20of&author=Karl%20Heisenberg&type=vertical&theme=monokai&border=true" alt="Readme Quotes"/>
+    <img src="https://quotes-github-readme.vercel.app/api?quote=THE%20WORLD%20ONLY%20MAKE%20SENCE%20IF%20YOU%FORCE%20IT%20TO&author=BATMAN&type=vertical&theme=monokai&border=true" alt="Readme Quotes"/>
 </p>
 
 <!-- my repo-->
