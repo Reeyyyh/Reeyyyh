@@ -41,7 +41,7 @@
   <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="40" height="40"/></a>
 &nbsp;
 <a href="https://www.sql.org/" target="_blank" rel="noreferrer" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="PHP" width="40" height="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="PHP" width="50" height="40"/></a>
 </p>
 
 <!-- for tools icons -->
