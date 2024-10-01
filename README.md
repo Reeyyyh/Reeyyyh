@@ -80,5 +80,5 @@
 <a href="https://github.com/Reeyyyh/Lua" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=Lua&theme=radical&border_radius=10" alt="Lua" /></a>
 <a href="https://github.com/Reeyyyh/testProject" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=testProject&theme=blue-green&border_radius=10" alt="testProject" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=testProject&theme=jolly&border_radius=10" alt="testProject" /></a>
 </p>
