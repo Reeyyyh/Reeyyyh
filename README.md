@@ -79,4 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=SolarSystem&theme=synthwave&border_radius=10" alt="SolarSystem" /></a>
 <a href="https://github.com/Reeyyyh/Lua" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=Lua&theme=radical&border_radius=10" alt="Lua" /></a>
+<a href="https://github.com/Reeyyyh/testProject" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=testProject&theme=synthwave&border_radius=10" alt="testProject" /></a>
 </p>
