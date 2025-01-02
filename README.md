@@ -42,6 +42,12 @@
 &nbsp;
 <a href="https://www.sql.org/" target="_blank" rel="noreferrer" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="PHP" width="50" height="40"/></a>
+&nbsp;
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer" >
+  <img src="https://raw.githubusercontent.com/flutter/flutter/master/packages/flutter_tools/gradle/images/flutter-mark-square-100.png" alt="flutter" width="40" height="40"/></a>
+&nbsp;
+<a href="https://dart.dev/" target="_blank" rel="noreferrer" >
+  <img src="https://raw.githubusercontent.com/dart-lang/site-www/master/src/_assets/images/dart-logo/logo-2021.svg" alt="dart" width="40" height="40"/></a>
 </p>
 
 <!-- for tools icons -->
@@ -54,6 +60,8 @@
   <a href="https://create.roblox.com/" targer="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/2048px-Roblox_Studio_logo_2021_present.svg.png" alt="Roblox Studio" width="40" height="40"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.virtualbox.org/" targer="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtual box" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Firebase_Logo_2016.svg" alt="firebase" width="40" height="40"/></a>
 </p>
 
 <!-- for github stats -->
