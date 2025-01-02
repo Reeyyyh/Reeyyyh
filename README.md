@@ -6,10 +6,6 @@
 
 <div align="center"><img align="center" alt="Coding" width="400" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></div>
 
-- 🌱 I’m currently learning **Fronted end**
-
-- ⚡ Fun fact **i think i dont have**
-
 <!-- for language icons -->
 <h2 align="left"> 📝 - Languages - </h2>
 <p align="center">
