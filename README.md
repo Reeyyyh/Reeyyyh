@@ -61,7 +61,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.virtualbox.org/" targer="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtual box" width="40" height="40"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo.png" alt="firebase" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="firebase" width="40" height="40"/></a>
 </p>
 
 <!-- for github stats -->
