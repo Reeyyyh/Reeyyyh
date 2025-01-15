@@ -95,4 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=testProject&theme=outrun&border_radius=10" alt="testProject" /></a>
 <a href="https://github.com/Reeyyyh/RestCountryAPI" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=RestCountryAPI&theme=rose_pine&border_radius=10" alt="RestCountryAPI" /></a>
+<a href="https://github.com/Reeyyyh/WeatherApp" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=WeatherApp&theme=shades-of-purple&border_radius=10" alt="WeatherApp" /></a>
 </p>
