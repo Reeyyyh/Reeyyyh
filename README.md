@@ -98,3 +98,5 @@
 <a href="https://github.com/Reeyyyh/WeatherApp" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=WeatherApp&theme=shades-of-purple&border_radius=10" alt="WeatherApp" /></a>
 </p>
+
+<!-- comment to update -->
