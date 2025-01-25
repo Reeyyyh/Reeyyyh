@@ -50,12 +50,10 @@
 </a>
 &nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-bootstrap-framework-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-dart-mobile-developer-programming-language-pack-logos-icons-5453031.png?f=webp" alt="bootstrap" width="40" height="40"/>
-</a>
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-bootstrap-framework-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-dart-mobile-developer-programming-language-pack-logos-icons-5453031.png?f=webp" alt="bootstrap" width="40" height="40"/></a>
 &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="tailwind" width="40" height="40"/>
-</a>
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="tailwind" width="40" height="40"/></a>
 </p>
 
 <!-- for tools icons -->
