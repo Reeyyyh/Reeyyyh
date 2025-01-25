@@ -46,8 +46,7 @@
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-dart-3d-icon-download-in-png-blend-fbx-gltf-file-formats--android-logo-google-flutter-coding-lang-pack-logos-icons-7578014.png?f=webp" alt="dart" width="40" height="40"/></a>
 &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png?f=webp" alt="react" width="40" height="40"/>
-</a>
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png?f=webp" alt="react" width="40" height="40"/></a>
 &nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-bootstrap-framework-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-dart-mobile-developer-programming-language-pack-logos-icons-5453031.png?f=webp" alt="bootstrap" width="40" height="40"/></a>
@@ -66,7 +65,7 @@
   <a href="https://create.roblox.com/" targer="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-roblox-3d-icon-download-in-png-blend-fbx-gltf-file-formats--gaming-game-entertainment-video-logos-and-brands-pack-icons-9325314.png?f=webp" alt="Roblox Studio" width="40" height="40"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.virtualbox.org/" targer="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtual box" width="40" height="40"/></a>
-  &nbsp;
+&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030134.png" alt="firebase" width="40" height="40"/></a>
 </p>
 
