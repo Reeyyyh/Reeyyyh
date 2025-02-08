@@ -53,6 +53,7 @@
 &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp" alt="tailwind" width="40" height="40"/></a>
+&nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-laravel-framework-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-library-programming-language-pack-logos-icons-5453023.png" alt="laravel" width="40" height="40"/></a>
 </p>
