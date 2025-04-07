@@ -1,3 +1,5 @@
+<!-- comment to update 07 04 2025 -->
+
 <h1 align="center">Hi 👋, I'm Rey</h1>
 
 <h2 align="left"> 👤 - About Me - </h2>
@@ -102,5 +104,3 @@
 <a href="https://github.com/Reeyyyh/WeatherApp" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reeyyyh&repo=WeatherApp&theme=shades-of-purple&border_radius=10" alt="WeatherApp" /></a>
 </p>
-
-<!-- comment to update 06 04 2025 -->
