@@ -72,6 +72,8 @@
   <a href="https://www.virtualbox.org/" targer="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtual box" width="40" height="40"/></a>
 &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030134.png" alt="firebase" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/supabase.png" alt="supabase" width="40" height="40"/></a>
 </p>
 
 <!-- for github stats -->
