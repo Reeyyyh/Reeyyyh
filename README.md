@@ -87,7 +87,7 @@
 <!-- quotes -->
 <h1 align="left"> 📖 - Motivation - </h1>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=THE%20WORLD%20ONLY%20MAKE%20SENCE%20IF%20YOU%20FORCE%20IT%20TO&author=BATMAN&type=vertical&theme=monokai&border=true" alt="Readme Quotes"/>
+    <img src="https://quotes-github-readme.vercel.app/api?quote=The%20above%20proposition%20is%20occasionally%20useful&author=Q&type=vertical&theme=monokai&border=true" alt="Readme Quotes"/>
 </p>
 
 <!-- my repo-->
